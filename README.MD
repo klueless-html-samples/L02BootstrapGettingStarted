@@ -45,6 +45,8 @@ Run VSCode Live Server on index.html or open in your browser
 # cd [YouCustomDevFolder]
 git clone git@github.com:klueless-html-samples/L02BootstrapGettingStarted.git && cd L02BootstrapGettingStarted
 
+npm install
+
 # use a command to open index.html in browser.
 # this is how I setup my Mac alias for chrome
 # alias chrome="open -a Google\ Chrome"
