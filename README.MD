@@ -4,6 +4,39 @@
 
 As a UX Designer, I want to use an off the shelf CSS framework, so that I can style my website components quickly
 
+## Before and After
+
+Before and after for Bootstrap Getting Started in HTML
+
+<table>
+<tr>
+  <th>Before</th>
+</tr>
+<tr>
+  <td>
+  
+  ![Before](shot-before.png 'Before screenshot')
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <th>Desktop</th>
+  <th>Mobile</th>
+</tr>
+<tr>
+  <td>
+
+  ![After](shot-after1.png 'After screenshot')
+  </td>
+  <td>
+  
+  ![After](shot-after2.png 'After screenshot')
+  </td>
+</tr>
+</table>
+
 ## Development
 
 Run VSCode Live Server on index.html or open in your browser
